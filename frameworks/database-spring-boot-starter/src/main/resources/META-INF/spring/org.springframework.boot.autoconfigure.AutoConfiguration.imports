@@ -15,4 +15,4 @@
 # limitations under the License.
 #
 
-com.railway.transportation.framwork.starter.distributedid.config.DistributedIdAutoConfiguration
+com.railway.transportation.framword.starter.database.config.MybatisPlusAutoConfiguration
