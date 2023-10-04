@@ -14,6 +14,15 @@
     <modules>
         <module>designpattern-spring-boot-starter</module>
         <module>base-spring-boot-starter</module>
+        <module>convention-spring-boot-starter</module>
+        <module>common-spring-boot-starter</module>
+        <module>database-spring-boot-starter</module>
+        <module>distributedid-spring-boot-starter</module>
+        <module>log-spring-boot-starter</module>
+        <module>idempotent-spring-boot-starter</module>
+        <module>web-spring-boot-starter</module>
+        <module>bizs-spring-boot-starter</module>
+        <module>cache-spring-boot-starter</module>
     </modules>
 
     <properties>
