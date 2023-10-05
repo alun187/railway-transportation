@@ -1,0 +1,14 @@
+server:
+  port: 8000
+spring:
+  application:
+    name: railway-gateway${unique-name:}-service
+  profiles:
+#    active: aggregation
+     active: dev
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8850
+        username: nacos
+        password: nacos
